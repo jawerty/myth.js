@@ -1,0 +1,15 @@
+body {
+	background-color: #CCC;
+	font-family: helvetica;
+	font-size: 14pt;
+	color: #555;
+}
+
+#game_canvas {
+	display: block;
+	margin: 100px auto;
+	background-color: #FFF;
+	width: 600px;
+	height: 400px;
+	border: 1px solid #AAA;
+}
