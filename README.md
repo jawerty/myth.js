@@ -1,5 +1,5 @@
 # myth.js (in development)
-A lightweight HTML5 game library for a HTML5/node.js mmo game that is currently in closed development.
+A lightweight HTML5 game library
 
 Basic usage
 
